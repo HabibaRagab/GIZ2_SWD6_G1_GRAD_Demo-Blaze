@@ -1,0 +1,27 @@
+
+    String name = "ALI" ;
+    String address = "15 st ahmed fahmy cairo" ;
+    String orders = "mobile , laptop , calculator" ;
+    int age =44;
+    int added=6;
+    int result =age+added;
+
+    public void Cust_name(){
+        System.out.println("Customer name " + name);
+    }
+    public void Cust_address(){
+        System.out.println("Customer address " + address);
+    }
+
+    public void Cust_orders(){
+        System.out.println("Customer orders " + orders);
+    }
+    public void Cust_age(){
+        System.out.println("Customer age " + age + result);
+    }
+    public void Cust_age2(){
+        System.out.println("Customer age " + age +added);
+    }
+
+
+
